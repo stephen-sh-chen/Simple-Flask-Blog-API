@@ -196,3 +196,4 @@ curl -X DELETE http://127.0.0.1:5000/posts/9 \
    1. Host CPU, Memory, Disk usages
 1. Make the project Installable
 1. Containerize the application and deploy to EKS
+1. Store the credentials in an independent secret vault, like AWS Secrete Manager
